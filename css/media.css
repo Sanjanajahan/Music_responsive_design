@@ -1,0 +1,146 @@
+/* laptop/desktop */
+ @media (max-width: 1199px){
+}
+/* laptop/desktop */
+/* large device */
+ @media (max-width: 991px){
+}
+/* large device */
+/* medium device*/
+ @media (max-width: 767px){
+}
+/* medium device */
+/* small device */
+ @media (max-width: 575px){
+    header img {
+    max-width: 100px;
+}
+.navbar-toggler span {
+   
+    height: 2px;
+    width: 20px;
+    
+    margin: 4px;
+    
+}
+.header-content h1 {
+   
+    font-size: 24px;
+    margin-bottom: 60px;
+    margin-top: 30px;
+}
+.header-content h6 {
+   
+    margin-top: 7px;
+    font-size: 12px;
+}
+.header-content .btn-custom {
+    
+    padding: 5px 22px;
+    font-size: 14px;
+    font-weight: 300;
+}
+.headphone-section .header-content h1 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.headphone-section p {
+    font-size: 12px;
+ }
+.headphone-section img {
+    
+    left: 77px;
+    bottom: 52px;
+    max-width: 75%;
+}
+.header-content h1 {
+    font-size: 20px;
+    margin-bottom: 35px;
+    margin-top: 30px;
+}
+.feature-section .frequency h4 {
+    font-size: 16px;
+    
+}.feature-section .frequency p {
+    font-size: 12px;
+    margin-bottom: 40px;
+}
+.shadow img {
+    max-height: 300px;
+    margin-bottom: 70px;
+}
+.display-music img {
+    max-height: 300px;
+    margin-bottom: 50px;
+}
+.rotate-music {
+    position: relative;
+    padding: 30px 0px;
+    z-index: 0;
+}
+.rotate-music .frequency img {
+    margin-top: 0px;
+}
+.rotate-music .rotated {
+    position: absolute;
+    max-width: 80%;
+    right: 0;
+    bottom: -55px;
+    z-index: -1;
+}
+.discover h1 {
+    color: #fff;
+    margin-top: 0px;
+    font-size: 22px;
+    
+}
+.discover {
+    background-color: #03070F;
+    position: relative;
+    padding: 70px 0px;
+}
+.discover p {
+    color: #485669;
+    font-weight: 500;
+    margin-bottom: 70px;
+    font-size: 12px;
+}
+.image-sticky img {
+    max-width: 100px;
+}
+.discover .mid-img {
+    position: absolute;
+    left: -38px;
+    top: -16px;
+}
+.discover .btn-custom {
+    /* position: absolute; */
+    text-align: center;
+    border: 1px solid #2A5CA1;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #fff;
+    padding: 4px 24px;
+    margin-left: -78px;
+    border-radius: 50px;
+    font-size: 12px;
+}
+.footer {
+    background-color: #03070F;
+    padding: 42px 0px;
+    border-top: 1px solid #2765b8;
+}
+.footer ul {
+    font-size: 12px;
+    margin-left: 0;
+    margin-right: 0;
+}
+ p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 12px;
+}
+}
